@@ -1,7 +1,7 @@
 package techproed.jdbcOrnekler;
 
  
- import java.sql.*; //7 sülalesini import eder
+ import java.sql.*;
 
 
 public class Jdbc1QuerySorgu02 {
